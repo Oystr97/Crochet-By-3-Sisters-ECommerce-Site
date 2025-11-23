@@ -1,34 +1,34 @@
-## Crochet by 3 Sisters 🧶
+# Crochet by 3 Sisters 🧶
 
+<!-- This is the "Work in Progress" Badge -->
+![Status](https://img.shields.io/badge/Status-Work_in_Progress-orange?style=flat-square&logo=git&logoColor=white)
 [![Website Status](https://img.shields.io/website?url=https%3A%2F%2FOystr97.github.io%2Fcrochet-by-3-sisters&label=Shop&style=flat-square)](https://Oystr97.github.io/crochet-by-3-sisters)
 
-> A responsive e-commerce front-end designed to digitize inventory and expand the customer base for a local crochet business.
+> A responsive e-commerce front-end designed to digitize inventory for a local business.
+
+---
+
+### 🚧 Current Status: Under Active Development
+**This project is currently being updated.**
+I am currently refactoring the product gallery to include better filtering options and preparing the backend for data collection.
+*   **Last Update:** November 2025
+*   **Next Milestone:** Integration of Google Analytics tags.
+
+---
 
 ## 📌 Project Overview
-This project creates a digital storefront for "Crochet by 3 Sisters," transitioning a local business from physical-only sales to an online presence. The goal was to create a user-friendly interface that showcases products effectively and provides contact channels for orders.
-
-**Live Demo:** [Click here to visit the website](https://Oystr97.github.io/crochet-by-3-sisters)
+This project creates a digital storefront for "Crochet by 3 Sisters," transitioning a local business from physical-only sales to an online presence. The goal is to create a user-friendly interface that showcases products effectively.
 
 ## 🛠 Technical Stack
 *   **Frontend:** HTML5, CSS3
 *   **Design:** Responsive Grid Layout (Mobile-first approach)
-*   **Version Control:** Git & GitHub
 *   **Deployment:** GitHub Pages
 
-## 📊 Business Impact
-*   **Digital Presence:** established the brand's first online footprint.
-*   **Catalog Management:** Organized product categories (apparel, accessories) for better user navigation.
-*   **Lead Generation:** Integrated direct contact links to streamline the ordering process.
-
 ## 🚀 Future Roadmap (Data Integration)
-To further enhance the business value, I plan to integrate data analytics:
-1.  **Traffic Analysis:** Implementing Google Analytics to track visitor demographics and peak browsing times.
-2.  **Conversion Tracking:** Measuring click-through rates on "Order Now" buttons to optimize product placement.
-3.  **Inventory Forecasting:** Using historical sales data (when available) to predict material needs.
+To enhance the business value, I am currently building:
+1.  **Traffic Analysis:** Implementing Google Analytics to track visitor demographics.
+2.  **Conversion Tracking:** Measuring click-through rates on "Order Now" buttons.
+3.  **Inventory Forecasting:** Using historical sales data to predict material needs.
 
-## 📂 Directory Structure
-```text
-├── images/        # Product photography and assets
-├── css/           # Stylesheets
-├── index.html     # Main landing page
-└── README.md      # Project documentation
+---
+*Developed by [Your Name]*
